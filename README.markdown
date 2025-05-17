@@ -58,15 +58,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mr-amresh/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amresh%20Kumar%20Yadav-blue?style=for-the-badge&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amresh-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:maithiligeek@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-amreshkyadav@gmail.com-darkgreen?style=for-the-badge&logo=gmail" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-maithiligeek@gmail.com-darkgreen?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://mr-amresh-site-k36e.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mr.amresh-site-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
+
 
 ---
 
