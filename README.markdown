@@ -57,10 +57,10 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amreshkyadav/" target="_blank">
+  <a href="https://www.linkedin.com/in/mr-amresh/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amresh%20Kumar%20Yadav-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:amreshkyadav@gmail.com">
+  <a href="mailto:maithiligeek@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-amreshkyadav@gmail.com-darkgreen?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://mr-amresh-site-k36e.vercel.app/">
